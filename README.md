@@ -1,5 +1,5 @@
 # Curse word blacklist
-Use this blacklist on your softwares and apps
+Use this blacklist on your apps to ban offensive, NSFW or inappropriate words
 
   - arabic
   - chinese
